@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhangjunxiongjie.github.io/</id>
     <title>MuRongYuYue</title>
-    <updated>2020-10-27T04:36:17.994Z</updated>
+    <updated>2020-10-27T04:46:52.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhangjunxiongjie.github.io/"/>
     <link rel="self" href="https://zhangjunxiongjie.github.io/atom.xml"/>
@@ -11,9 +11,9 @@
     <icon>https://zhangjunxiongjie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, MuRongYuYue</rights>
     <entry>
-        <title type="html"><![CDATA[张俊雄]]></title>
-        <id>https://zhangjunxiongjie.github.io/post/gerenjianjie</id>
-        <link href="https://zhangjunxiongjie.github.io/post/gerenjianjie">
+        <title type="html"><![CDATA[# 中文文案排版指北]]></title>
+        <id>https://zhangjunxiongjie.github.io/post/cn-composing</id>
+        <link href="https://zhangjunxiongjie.github.io/post/cn-composing">
         </link>
         <updated>2020-10-27T04:04:20.000Z</updated>
     </entry>
